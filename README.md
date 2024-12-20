@@ -10,3 +10,8 @@ recall, and fitness. It also boasts of consistent performance across several sce
 confidence thresholds. 
 
 ![image](https://github.com/user-attachments/assets/29470ead-94ad-4188-adc1-99c77e7a5126)
+
+![image](https://github.com/user-attachments/assets/a613ba9d-6762-4faa-878b-087e3ad0dd80)
+
+
+Yolov11 performs best due to its very high fitness score, precision and recall. It is therefore the most balanced for object detection. It also ensure consistent performance accross several scenarios which includes detecting objects with overlapping boundries and varying confidence thresholds
